@@ -1,0 +1,16 @@
+a{
+    display: inline-block;
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 0.5em 1em 0.5em 1em;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90px;
+    text-align: center;
+    background-color: rgb(94, 181, 240);
+    color: white;
+}
+a:hover{
+    background-color: blue
+}
